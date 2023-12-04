@@ -1,4 +1,4 @@
-# NIST_total_elastic_CS
+Automation of extracting total elastic elastic cross-section from NIST
 
 Extracting the total elastic cross section at each electron energy from the NIST website: https://srdata.nist.gov/SRD64/Elastic
 
