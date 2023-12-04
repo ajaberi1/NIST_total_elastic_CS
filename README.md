@@ -1,6 +1,6 @@
 # NIST_total_elastic_CS
 
-Extracting the total elastic cross section from the NIST website: https://srdata.nist.gov/SRD64/Elastic
+Extracting the total elastic cross section at each electron energies from the NIST website: https://srdata.nist.gov/SRD64/Elastic
 
 This code requires the selenium library. Use pip or conda to install selenium:
 
